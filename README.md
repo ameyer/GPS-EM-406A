@@ -1,7 +1,7 @@
 # EM-406A GPS Module
 Arduino code for the EM-406A GPS Module
 
-For complete hookup and tutorial see bildr.org: http://bildr.org/2011/06/em406a-gps-arduino/
+For complete hookup and tutorial see: http://adam-meyer.com/arduino/em-406a
 
 The code is provided under the MIT license please use, edit, change, and share. 
 
